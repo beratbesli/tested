@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > This experiment is archived. Active development continues in
-> [pico2testcube](https://github.com/beratbesli/pico2testcube), which adds an
+> [pico2-out-of-core-renderer](https://github.com/beratbesli/pico2-out-of-core-renderer), which adds an
 > SD-backed out-of-core framebuffer and a more complete renderer. This
 > repository remains available to preserve the original, dependency-light
 > milestone.
