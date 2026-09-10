@@ -1,5 +1,12 @@
 # Pico 2 (RP2350) 3D ASCII Rotating Cube Demo
 
+> [!IMPORTANT]
+> This experiment is archived. Active development continues in
+> [pico2testcube](https://github.com/beratbesli/pico2testcube), which adds an
+> SD-backed out-of-core framebuffer and a more complete renderer. This
+> repository remains available to preserve the original, dependency-light
+> milestone.
+
 Raspberry Pi Pico 2 (RP2350) mikrodenetleyicisi için USB CDC seri portu üzerinden terminale gerçek zamanlı 3D döner küp render eden bağımsız demo projesi.
 
 ## Özellikler
@@ -51,3 +58,7 @@ minicom -D /dev/ttyACM0 -b 115200
 # veya Screen ile:
 screen /dev/ttyACM0 115200
 ```
+
+## License
+
+This project is available under the [MIT License](LICENSE).
